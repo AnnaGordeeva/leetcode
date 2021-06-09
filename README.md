@@ -1,2 +1,2 @@
-# leetcode
+# Leetcode
 Tasks from leetcode
